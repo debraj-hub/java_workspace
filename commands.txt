@@ -1,0 +1,17 @@
+//git --version
+//git config --global user.name "debraj-hub"
+// git config --global user.email "debuipr@gmail.com"
+//git config --list
+//vi .gitconfig
+//mkdir git_workspace
+//cd git_workspace/
+//git clone https://github.com/debraj-hub/java_workspace.git
+//ls
+//cd java_workspace/
+//touch HelloWorld.java
+//vi HelloWorld.java !!! write programme save it
+//git add HelloWorld.java
+//git commit -m "First java programme" HelloWorld.java
+//git push -u origin <main>  !! main = the name of branch
+//Username for 'https://github.com': debraj-hub
+//Password for 'https://debhub@github.com': <creat a Developer setting -> Personal access tokens -> Generate new token -> copy the password>
